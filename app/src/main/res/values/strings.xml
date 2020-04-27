@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Firebase Auth One Tap UI Demo</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
 </resources>
